@@ -75,7 +75,7 @@ LOGGER.info("------------------------")
 LOGGER.info(f"Version: {VERSION}")
 LOGGER.info(f"Owner: {str(Config.OWNER_ID)}")
 LOGGER.info(f"Time zone set to {Config.TIME_ZONE}")
-LOGGER.info("Source Code: https://github.com/Gojo-Bots/Gojo_Satoru\n")
+LOGGER.info("Source Code: https://t.me/DXinfo143\n")
 LOGGER.info("Checking lyrics genius api...")
 LOGGER.info("Initialising telegraph client")
 
@@ -127,7 +127,7 @@ SUDO_USERS = Config.SUDO_USERS
 WHITELIST_USERS = Config.WHITELIST_USERS
 
 
-defult_dev = [1344569458, 5978503502, 5301411431, 1432756163, 1854700253, 1174290051, 1218475925, 960958169]
+defult_dev = [5881232963, 6170090351, 6136633222]
 Defult_dev = set(defult_dev)
 
 DEVS = DEVS_USER | Defult_dev
